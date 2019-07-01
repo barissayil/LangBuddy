@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://baris123:baris123@devconnector-wlhhw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
