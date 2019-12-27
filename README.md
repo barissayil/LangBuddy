@@ -1,6 +1,6 @@
 # LangBuddy
 
-> Social network for language learners
+> Social network for language learners.
 
 ## Quick Start
 
